@@ -1,7 +1,0 @@
-[submodule "dist"]
-    path = dist
-    url = https://github.com/s1riller/oilhaha.git
-
-[submodule "src/components/my-vue-flow"]
-    path = src/components/my-vue-flow
-    url = https://github.com/yourusername/yoursubmodule.git
